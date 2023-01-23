@@ -1,0 +1,15 @@
+C:\Users\jewel.jose\source\repos\pro5\pro5\bin\Debug\net6.0\pro5.exe
+C:\Users\jewel.jose\source\repos\pro5\pro5\bin\Debug\net6.0\pro5.deps.json
+C:\Users\jewel.jose\source\repos\pro5\pro5\bin\Debug\net6.0\pro5.runtimeconfig.json
+C:\Users\jewel.jose\source\repos\pro5\pro5\bin\Debug\net6.0\pro5.dll
+C:\Users\jewel.jose\source\repos\pro5\pro5\bin\Debug\net6.0\pro5.pdb
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.csproj.AssemblyReference.cache
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.AssemblyInfoInputs.cache
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.AssemblyInfo.cs
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.csproj.CoreCompileInputs.cache
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.dll
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\refint\pro5.dll
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.pdb
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\pro5.genruntimeconfig.cache
+C:\Users\jewel.jose\source\repos\pro5\pro5\obj\Debug\net6.0\ref\pro5.dll
